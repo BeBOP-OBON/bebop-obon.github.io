@@ -2,7 +2,7 @@
 
 # Welcome to Better Biomolecular Ocean Protocols (BeBOP)
 A UN Ocean Decade Project under the Ocean Biomolecular Observing Network (OBON)
-![OBON](OBON_1.png)
+![OBON](OBON_1.png){: width="50%"}
 OBON [website](https://www.obon-ocean.org/)
 
 ## [Protocol Templates](protocol_template_description.md)
