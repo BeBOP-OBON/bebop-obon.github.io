@@ -7,5 +7,5 @@ Machine-readable protocol templates that separate long protocols into easily com
 
 ## [Minimum Information about an Omics Protocol (MIOP)](miop.md)
 
-A repository to store terms and related documentation from the Minimal Information about an Omics Protocol (MIOP) specification
+Metadata terms to describle protocols helping make them more findable and sortable.
 
