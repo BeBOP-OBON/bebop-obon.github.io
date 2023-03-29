@@ -33,3 +33,4 @@ Please consult [model/schema/terms.yaml](https://github.com/BeBOP-OBON/miop/blob
 | license  | A legal document giving official permission to do something with the resource. |Public Domain (CC0) |
 | maturity level  | Enter the maturity level of the methodology in the document.  |Pilot|
 
+[back](./)
