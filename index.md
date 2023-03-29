@@ -9,5 +9,5 @@ Machine-readable protocol templates that separate long protocols into easily com
 
 ## [Minimum Information about an Omics Protocol (MIOP)](miop.md)
 
-Metadata terms to describle protocols helping make them more findable and sortable.
+Metadata terms to describe protocols helping make them more findable and sortable.
 
