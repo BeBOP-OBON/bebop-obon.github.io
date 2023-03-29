@@ -5,8 +5,11 @@ A UN Ocean Decade Project under the Ocean Biomolecular Observing Network (OBON) 
 [https://www.obon-ocean.org/](https://www.obon-ocean.org/)
 
 Paper:
+
 Toward a Global Public Repository of Community Protocols to Encourage Best Practices in Biomolecular Ocean Observing and Research
+
 Samuel et al 2021
+
 [https://doi.org/10.3389/fmars.2021.758694](https://doi.org/10.3389/fmars.2021.758694)
 
 ## [Protocol Templates](protocol_template_description.md)
