@@ -5,7 +5,7 @@ Terms and related documentation from the Minimal Information about an Omics Prot
 These terms were developed by the Better Biomolecular Ocean Practices (BeBOP) group coming out of the [Task Team 21-03: Omics/eDNA Protocol Management](https://www.oceanbestpractices.org/about/task-teams/obps-task-team-21-03-omics-edna-protocol-management/) under the Ocean Best Practices System.
 
 
-Please consult [model/schema/terms.yaml](https://github.com/BeBOP-OBON/miop/blob/main/model/schema/terms.yaml) for the term specifications
+Please consult [model/schema/terms.yaml]([MIOP_definition.md](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/MIOP_definition.md)) for the term specifications
 
 ## MIOP Terms
 
