@@ -4,7 +4,7 @@
 
 # Welcome to Better Biomolecular Ocean Practices (BeBOP)
 
-## About BeBOP
+## About BeBOP Protocols
 
 Information about BeBOP protocols can be found at the [BeBOP-OBON GitHub organization](https://github.com/BeBOP-OBON).
 
@@ -16,7 +16,7 @@ Machine-readable protocol templates can be found in the [0_protocol_collection_t
 
 BeBOP makes use of two sets of metadata terms, which improve machine-readability and reporting:
 
-* Minimum Information about an Omics Protocol (MIOP) terms can be be found at the [MIOP GitHub repository](https://github.com/BeBOP-OBON/miop).
+* Minimum Information about an Omics Protocol (MIOP) terms can be found at the [MIOP GitHub repository](https://github.com/BeBOP-OBON/miop).
 * FAIR eDNA (FAIRe) terms can be found at the [FAIRe website](https://fair-edna.github.io/) and [FAIRe checklist repository](https://github.com/FAIR-eDNA/FAIRe_checklist).
 
 ## Citation
