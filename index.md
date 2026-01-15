@@ -16,8 +16,9 @@ Machine-readable protocol templates can be found in the [0_protocol_collection_t
 
 BeBOP makes use of two sets of metadata terms, which improve machine-readability and reporting:
 
-* Minimum Information about an Omics Protocol (MIOP) terms can be found at the [MIOP GitHub repository](https://github.com/BeBOP-OBON/miop).
-* FAIR eDNA (FAIRe) terms can be found at the [FAIRe website](https://fair-edna.github.io/) and [FAIRe checklist repository](https://github.com/FAIR-eDNA/FAIRe_checklist).
+* Minimum Information about an Omics Protocol (MIOP) terms are in this repository: [BeBOP-OBON/miop](https://github.com/BeBOP-OBON/miop).
+* FAIR eDNA (FAIRe) terms can be found on the [FAIRe website](https://fair-edna.github.io/) and this repository: [FAIR-eDNA/FAIRe checklist](https://github.com/FAIR-eDNA/FAIRe_checklist).
+* Metabarcoding assays and primers used by the NOAA 'Omics program are in this repository: [NOAA-Omics/noaa-omics-metabarcoding-assays](https://github.com/NOAA-Omics/noaa-omics-metabarcoding-assays).
 
 ## Citation
 
